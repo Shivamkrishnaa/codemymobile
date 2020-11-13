@@ -1,0 +1,29 @@
+{
+	"id": "e1315c37-4776-4c4b-8942-c9c282c0884a",
+	"values": [
+		{
+			"key": "url",
+			"value": "http://localhost:4000",
+			"enabled": false
+		},
+		{
+			"key": "userId",
+			"value": "1",
+			"enabled": true
+		},
+		{
+			"key": "friendId",
+			"value": "3",
+			"enabled": true
+		},
+		{
+			"key": "user2Id",
+			"value": "3",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2020-11-13T22:16:34.130Z",
+	"_postman_exported_using": "Postman/7.35.0"
+}
