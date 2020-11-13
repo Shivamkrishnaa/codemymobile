@@ -17,7 +17,9 @@ npm start
 Import Postman enviroment from envCodemymobile.json and API collection codemymobile.postman_collection.json .
 
 > Retreive list of Users :  GET Method  http://{{url}}/api/v1/users?page={{page}}&limit={{limit}}
+
 > Retreive list of User friends : GET Method  http://{{url}}/api/v1/users/{{userId}}?page={{page}}&limit={{limit}}
+
 > Retrieve list of user one and user two mutual friends : GET Method  http://{{url}}/api/v1/users/userId/{{user2Id}}?page={{page}}&limit={{limit}}
 
 ## How to run Client (React application)
